@@ -1,8 +1,6 @@
 # castro369
 
-```
-Cloud Scholar (Cloud Engineer & DevOps)
-```
+**`Cloud Scholar (Cloud Engineer & DevOps)`**
  
 I am a Cloud Architect/ DevOps Engineer that has the thirst for knowledge in everything tech.
 - 🔭 I’m currently working on multi-cloud
