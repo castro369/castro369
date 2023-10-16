@@ -1,8 +1,10 @@
-# castro369
+# Antonio Castro
 
-**`Cloud Scholar (Cloud Engineer & DevOps)`**
+**`Cloud Scholar (Cloud Engineer & DevOps Engineer)`**
  
-I am a Cloud Architect/ DevOps Engineer that has the thirst for knowledge in everything tech.
+I am a Cloud Architect / DevOps Engineer that has the thirst for knowledge in everything tech.
+
+## Interests
 - 🔭 I’m currently working on multi-cloud
 - 🌱 I’m currently learning Machine Learning and Full Stack Development
 
